@@ -10,9 +10,7 @@ This project is an interactive Bike Sales Dashboard developed in Microsoft Excel
 
 ## Dashboard Preview
 
-> Upload **Dashboard Screenshot.png** to this repository and replace the line below with the image.
-
-![Bike Sales Dashboard](Dashboard Screenshot.png)
+![Bike Sales Dashboard](Screenshot 2026-07-30 203257.png)
 
 ---
 
