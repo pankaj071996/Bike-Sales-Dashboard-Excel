@@ -10,8 +10,7 @@ This project is an interactive Bike Sales Dashboard developed in Microsoft Excel
 
 ## Dashboard Preview
 
-![Bike Sales Dashboard](Screenshot 2026-07-30 203257.png)
-
+![Bike Sales Dashboard](Dashboard%20Screenshot.png)
 ---
 
 ## Objectives
